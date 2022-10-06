@@ -40,6 +40,9 @@
   <a href="mailto:cristhian_moura@live.com" target="_blank">
     <img height="40" width="50" src="https://img.icons8.com/fluency/96/000000/microsoft-outlook-2019.png" />
   </a>
+  <a href="https://www.figma.com/files/user/996751842462314940?fuid=996751842462314940" target="_blank">
+    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  </a>
 </div>
 
 </br>
