@@ -18,6 +18,9 @@
 
 </br>
 
+### - Meus conhecimentos.
+</br>
+
 <div style="display: inline_block" align="center">
   <img align="center" alt"lang-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt"lang-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
@@ -32,7 +35,11 @@
 </div>
 
 </br>
-    
+
+### - Contatos e templates
+
+</br>
+
 <div style = "display: flex, justify-content: space-between" align="center">
   <a href="https://www.linkedin.com/in/cristhian-moura/" target="_blank">
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
