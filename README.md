@@ -3,7 +3,7 @@
 </br>
 </br>
 
-- 💻 Analista de sistema Jr. [<Hospital Santa Monica>](https://www.hospsantamonica.com.br)
+- 💻 Analista e desenvolvedor de sistemas Jr. [<Hospital Santa Monica>](https://www.hospsantamonica.com.br)
 - 👩🏻‍💻 HTML5 | CSS3 | Javascrit | NodeJs | ReactJs | React Native | PL/SQL
 - 🎓 Formado em Analise e desenvolvimento de sistemas
     
