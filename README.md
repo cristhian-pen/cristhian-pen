@@ -53,5 +53,7 @@
 </div>
 
 </br>
-    
-![snake gif](https://github.com/cristhian-pen/cristhian-pen/blob/output/github-contribution-grid-snake.svg)
+
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+
+<!--![snake gif](https://github.com/cristhian-pen/cristhian-pen/blob/output/github-contribution-grid-snake.svg) !-->
