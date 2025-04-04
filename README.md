@@ -3,7 +3,7 @@
 </br>
 </br>
 
-- 💻 Analista e desenvolvedor de sistemas Jr. [<Hospital Santa Monica>](https://www.hospsantamonica.com.br)
+- 💻 Analista e desenvolvedor de sistemas
 - 👩🏻‍💻 HTML5 | CSS3 | Javascrit | NodeJs | ReactJs | React Native | PL/SQL
 - 🎓 Formado em Analise e desenvolvimento de sistemas
     
@@ -31,6 +31,12 @@
   <img align="center" alt"lang-dkr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   <img align="center" alt"lang-fgma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="lang-mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="lang-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="lang-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="lang-postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img align="center" alt="lang-grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain.svg" />
+  <img align="center" alt="lang-insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+  <img align="center" alt="lang-pw" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />        
   <img align="center" alt"lang-sqlize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg"/>
 </div>
 
@@ -54,4 +60,4 @@
 
 </br>
 
-<!--![snake gif](https://github.com/cristhian-pen/cristhian-pen/blob/output/github-contribution-grid-snake.svg) !-->
+[snake gif](https://github.com/cristhian-pen/cristhian-pen/blob/output/github-contribution-grid-snake.svg) 
